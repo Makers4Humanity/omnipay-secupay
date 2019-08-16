@@ -1,5 +1,5 @@
 {
-    "name": "sauladam/omnipay-secupay",
+    "name": "makers4humanity/omnipay-secupay",
     "type": "library",
     "description": "Secupay driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,11 +10,11 @@
         "invoice",
         "payment"
     ],
-    "homepage": "https://github.com/sauladam/omnipay-secupay",
+    "homepage": "https://github.com/Makers4Humanity/omnipay-secupay",
     "license": "MIT",
     "authors": [
         {
-            "name": "Saulius Adamonis"
+            "name": "Saulius Adamonis / Alexander Stellmach"
         }
     ],
     "autoload": {
